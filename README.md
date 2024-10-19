@@ -36,7 +36,7 @@ The repository contains the following components:
 2. Install dependencies:
    pip install -r requirements.txt
 3. Explore the data and perform analysis through the provided Jupyter notebooks.
-4. The Tableau dashboard can be accessed here: [View Dashboard on Tableau Public]([https://public.tableau.com/app/profile/giuseppe.nicol./viz/RealEstate_17293237825170/InvestmentInsightsTheMilanRealEstateMarket]).
+4. The Tableau dashboard can be accessed here: [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/giuseppe.nicol./viz/RealEstate_17293237825170/InvestmentInsightsTheMilanRealEstateMarket).
 
 
 ## Project Deliverables
