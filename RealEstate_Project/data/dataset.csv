@@ -1,0 +1,100 @@
+,title,price,surface,rooms,bathrooms,typology,macrozone,microzone,latitude,longitude
+0,"Bilocale via Carlo Ravizza 40, Amendola - Buonarroti, Milano",430000,64,2,1,Appartamento,"Fiera, Sempione, City Life, Portello",Amendola - Buonarroti,45.4705,9.1488
+1,"Bilocale piazza Insubria 10, Martini - Insubria, Milano",310000,50,2,1,Appartamento,"Porta Vittoria, Lodi",Martini - Insubria,45.4532,9.2195
+2,"Bilocale via Giovanni Battista Bertini 21, Paolo Sarpi, Milano",620000,63,2,1,Appartamento,"Cenisio, Sarpi, Isola",Paolo Sarpi,45.4829,9.1726
+3,"Trilocale via Ugo la Malfa 6, Quartiere Adriano, Milano",359000,100,3,1,Appartamento,"Cimiano, Crescenzago, Adriano",Quartiere Adriano,45.5167,9.2464
+4,"Villa unifamiliare via Bolzano 9, Rovereto, Milano",2000000,400,0,0,Villa unifamiliare,"Pasteur, Rovereto",Rovereto,45.4962,9.221
+5,"Attico viale Certosa 235, Cascina Merlata - Musocco, Milano",845000,226,4,0,Attico,"Viale Certosa, Cascina Merlata",Cascina Merlata - Musocco,45.5002,9.1287
+6,"Trilocale via Pietro Panzeri 2, Ticinese, Milano",1150000,154,3,2,Appartamento,"Genova, Ticinese",Ticinese,45.4541,9.1777
+7,"Trilocale via Roberto Tremelloni 15, Precotto, Milano",390000,90,3,2,Appartamento,"Precotto, Turro",Precotto,45.5143,9.2302
+8,"Quadrilocale largo Settimio Severo 1, Vercelli - Wagner, Milano",1790000,190,4,3,Appartamento,"Solari, Washington",Vercelli - Wagner,45.4661,9.1625
+9,"Trilocale via Reggimento Savoia Cavalleria 10, Pagano, Milano",645000,81,3,2,Appartamento,"Arco della Pace, Arena, Pagano",Pagano,45.4728,9.1634
+10,"Trilocale via Quinto Romano 14, Baggio, Milano",255000,100,3,1,Appartamento,"Bisceglie, Baggio, Olmi",Baggio,45.4636,9.0871
+11,"Appartamento via Crocefisso 25, Carrobbio, Milano",1490000,180,5,3,Appartamento,Centro,Carrobbio,45.4568,9.1848
+12,"Bilocale via Marcello Nizzoli 8, Bande Nere, Milano",413000,72,2,1,Appartamento,"Bande Nere, Inganni",Bande Nere,45.4579,9.1324
+13,"Monolocale via Panfilo Castaldi 19, Porta Venezia, Milano",220000,28,1,1,Appartamento,"Porta Venezia, Indipendenza",Porta Venezia,45.4772,9.202
+14,"Trilocale via Policarpo Petrocchi 21, Turro, Milano",348000,88,3,1,Appartamento,"Precotto, Turro",Turro,45.5028,9.225
+15,"Quadrilocale via Giuseppe Edoardo Arimondi 39, Ghisolfa - Mac Mahon, Milano",1550000,250,4,0,Appartamento,"Viale Certosa, Cascina Merlata",Ghisolfa - Mac Mahon,45.4919,9.1576
+16,"Quadrilocale via Fano ,6, Bruzzano, Milano",330000,85,4,2,Appartamento,"Bicocca, Niguarda",Bruzzano,45.5298,9.1709
+17,"Attico via Gallarate 55, Certosa, Milano",699000,203,4,2,Attico,"Viale Certosa, Cascina Merlata",Certosa,45.4952,9.1369
+18,"Trilocale via Antonio Rosmini 1, Arena, Milano",399000,59,3,1,Appartamento,"Arco della Pace, Arena, Pagano",Arena,45.479,9.1748
+19,"Trilocale via Val di Sole 10, Vigentino - Fatima, Milano",390000,100,3,1,Appartamento,"Ripamonti, Vigentino",Vigentino - Fatima,45.4325,9.2023
+20,"Trilocale via Piero della Francesca 34, Sempione, Milano",595000,97,3,2,Appartamento,"Fiera, Sempione, City Life, Portello",Sempione,45.4838,9.1643
+21,"Bilocale viale Monza 30, Pasteur, Milano",368000,83,2,1,Appartamento,"Pasteur, Rovereto",Pasteur,45.4904,9.21822
+22,"Trilocale via Quadronno 33, Quadronno - Crocetta, Milano",1170000,115,3,2,Appartamento,"Quadronno, Palestro, Guastalla",Quadronno - Crocetta,45.4544,9.1956
+23,"Bilocale via Sebino 17, Martini - Insubria, Milano",168000,51,2,1,Appartamento,"Porta Vittoria, Lodi",Martini - Insubria,45.4507,9.2204
+24,"Loft via Piero della Francesca 22, Sempione, Milano",259000,59,2,1,Loft,"Fiera, Sempione, City Life, Portello",Sempione,45.483,9.1657
+25,"Trilocale via Alessandro Astesani 24, Affori, Milano",459000,98,3,2,Appartamento,"Affori, Bovisa",Affori,45.5182,9.1709
+26,"Trilocale via Carlo Marochetti 9, Corvetto, Milano",318000,95,3,2,Appartamento,"Corvetto, Rogoredo",Corvetto,45.4392,9.2264
+27,"Trilocale via del Torchio 4, Carrobbio, Milano",795000,85,3,1,Appartamento,Centro,Carrobbio,45.4603,9.1808
+28,"Quadrilocale via Andrea Costa 11, Pasteur, Milano",750000,140,4,2,Appartamento,"Pasteur, Rovereto",Pasteur,45.4873,9.2198
+30,"Trilocale via Novara 5, Piazzale Siena, Milano",420000,107,3,1,Appartamento,"Bande Nere, Inganni",Piazzale Siena,45.468,9.1289
+31,"Bilocale via Marcello Nizzoli 8, Bande Nere, Milano",418000,71,2,1,Appartamento,"Bande Nere, Inganni",Bande Nere,45.4579,9.1324
+32,"Quadrilocale via Luigi Cagnola 3, Arco della Pace, Milano",1360000,180,4,2,Appartamento,"Arco della Pace, Arena, Pagano",Arco della Pace,45.4769,9.1725
+33,"Bilocale via San Gregorio 43, Repubblica, Milano",397000,52,2,1,Appartamento,"Centrale, Repubblica",Repubblica,45.4804,9.2024
+34,"Bilocale via Amedeo d'Aosta 11, Città Studi, Milano",385000,56,2,1,Appartamento,"Città Studi, Susa",Città Studi,45.4752,9.2177
+35,"Loft via Bordighera 32, Famagosta, Milano",435000,65,2,2,Loft,"Famagosta, Barona",Famagosta,45.4401,9.1736
+36,"Trilocale via della Torre 15, Turro, Milano",450000,82,3,1,Appartamento,"Precotto, Turro",Turro,45.5008,9.2236
+37,"Bilocale via Matteo Bandello 22, San Vittore, Milano",720000,57,2,1,Appartamento,"Genova, Ticinese",San Vittore,45.4631,9.1655
+38,"Appartamento via Goffredo Mameli 20, Indipendenza, Milano",1930000,242,5,3,Appartamento,"Porta Venezia, Indipendenza",Indipendenza,45.4654,9.2133
+39,"Bilocale viale Ungheria 48, Viale Ungheria - Mecenate, Milano",219000,65,2,1,Appartamento,Forlanini,Viale Ungheria - Mecenate,45.446,9.2536
+40,"Quadrilocale via Aicardo 2, Pezzotti - Meda, Milano",480000,107,4,1,Appartamento,"Abbiategrasso, Chiesa Rossa",Pezzotti - Meda,45.4429,9.1846
+41,"Trilocale viale Abruzzi 82, Città Studi, Milano",1150000,140,3,3,Appartamento,"Città Studi, Susa",Città Studi,45.484,9.2173
+42,"Bilocale via Carlo Farini 74, Farini, Milano",389000,70,2,1,Appartamento,"Cenisio, Sarpi, Isola",Farini,45.4947,9.1856
+43,"Bilocale via del Torchio 4, Carrobbio, Milano",795000,85,2,1,Appartamento,Centro,Carrobbio,45.4603,9.1808
+44,"Trilocale via Paolo Rotta 10, Niguarda, Milano",348000,116,3,2,Appartamento,"Bicocca, Niguarda",Niguarda,45.5164,9.1895
+45,"Trilocale piazza Greco 10, Greco - Segnano, Milano",365000,83,3,1,Appartamento,"Bicocca, Niguarda",Greco - Segnano,45.5019,9.2122
+46,"Trilocale via Mario Morgantini 13, San Siro, Milano",337000,78,3,1,Appartamento,"San Siro, Trenno",San Siro,45.4699,9.1344
+47,"Trilocale via Carlo Farini 2, Garibaldi - Corso Como, Milano",750000,82,3,1,Appartamento,"Garibaldi, Moscova, Porta Nuova",Garibaldi - Corso Como,45.4828,9.1817
+48,"Trilocale Alzaia Naviglio Pavese 288, Cantalupa - San Paolo, Milano",420000,107,3,2,Appartamento,"Famagosta, Barona",Cantalupa - San Paolo,45.4226,9.1672
+49,"Loft via Disciplini 9, Carrobbio, Milano",1800000,195,3,2,Loft,Centro,Carrobbio,45.4581,9.1858
+50,"Quadrilocale via Antonio Canova 15, Arco della Pace, Milano",2100000,180,4,3,Appartamento,"Arco della Pace, Arena, Pagano",Arco della Pace,45.4751,9.1684
+51,"Bilocale via Grado 14, Turro, Milano",295000,58,2,1,Appartamento,"Precotto, Turro",Turro,45.5005,9.2197
+52,"Trilocale via Luigi Settembrini 43, Centrale, Milano",590000,110,3,2,Appartamento,"Centrale, Repubblica",Centrale,45.4842,9.2084
+53,"Quadrilocale via Emilio De Marchi 52, Greco - Segnano, Milano",650000,149,4,2,Appartamento,"Bicocca, Niguarda",Greco - Segnano,45.5026,9.211
+54,"Appartamento viale Papiniano 49, Corso Genova, Milano",1250000,183,5,2,Appartamento,"Genova, Ticinese",Corso Genova,45.4573,9.1715
+55,"Appartamento viale Pasubio, Garibaldi - Corso Como, Milano",3200000,300,5,3,Appartamento,"Garibaldi, Moscova, Porta Nuova",Garibaldi - Corso Como,45.4817,9.184
+56,"Appartamento viale Regina Giovanna 24, Porta Venezia, Milano",1330000,200,5,2,Appartamento,"Porta Venezia, Indipendenza",Porta Venezia,45.4743,9.2115
+57,"Quadrilocale via Roberto Tremelloni 42, Quartiere Adriano, Milano",399000,115,4,2,Appartamento,"Cimiano, Crescenzago, Adriano",Quartiere Adriano,45.5168,9.2431
+58,"Quadrilocale viale Stelvio 21, Zara, Milano",1350000,222,4,2,Appartamento,"Cenisio, Sarpi, Isola",Zara,45.4932,9.1902
+59,"Bilocale via Bettino Da Trezzo 12, Cascina dei Pomi, Milano",240000,60,2,1,Appartamento,"Maggiolina, Istria",Cascina dei Pomi,45.4991,9.2106
+60,"Loft via Valparaiso, Solari, Milano",985000,140,3,2,Loft,"Solari, Washington",Solari,45.4573,9.1637
+61,"Bilocale via Padova 39, Parco Trotter, Milano",265000,50,2,1,Appartamento,"Pasteur, Rovereto",Parco Trotter,45.4908,9.2228
+62,"Trilocale via degli Imbriani, Bovisa, Milano",470000,96,3,1,Appartamento,"Affori, Bovisa",Bovisa,45.4996,9.1687
+63,"Trilocale via Alserio 10, Zara, Milano",1240000,115,3,2,Appartamento,"Cenisio, Sarpi, Isola",Zara,45.491,9.1859
+64,"Trilocale via Cesare da Sesto 22, Corso Genova, Milano",680000,105,3,2,Appartamento,"Genova, Ticinese",Corso Genova,45.4586,9.1716
+65,"Quadrilocale via Val di Sole 11, Vigentino - Fatima, Milano",415000,115,4,1,Appartamento,"Ripamonti, Vigentino",Vigentino - Fatima,45.4319,9.203
+66,"Bilocale via Carlo Marochetti 3, Corvetto, Milano",230000,45,2,1,Appartamento,"Corvetto, Rogoredo",Corvetto,45.4396,9.2254
+67,"Trilocale viale Berengario 11, Monte Rosa - Lotto, Milano",765000,99,3,2,Appartamento,"Fiera, Sempione, City Life, Portello",Monte Rosa - Lotto,45.4754,9.1512
+68,"Trilocale via Giovanni Battista Sammartini 49, Cascina dei Pomi, Milano",460000,101,3,1,Appartamento,"Maggiolina, Istria",Cascina dei Pomi,45.4922,9.2086
+69,"Quadrilocale via sismondi 6, Plebisciti - Susa, Milano",980000,160,4,2,Appartamento,"Città Studi, Susa",Plebisciti - Susa,45.4655,9.2248
+70,"Bilocale via Emilio Broglio, Bovisa, Milano",249100,53,2,1,Appartamento,"Affori, Bovisa",Bovisa,45.5026,9.1632
+71,"Attico via San Martino 15, Ticinese, Milano",780000,55,2,1,Attico,"Genova, Ticinese",Ticinese,45.4532,9.19
+72,"Trilocale via dario papa 2/A, Maggiolina, Milano",309000,66,3,1,Appartamento,"Maggiolina, Istria",Maggiolina,45.4986,9.2034
+73,"Bilocale via Privata Trasimeno 48, Quartiere Adriano, Milano",245000,65,2,1,Appartamento,"Cimiano, Crescenzago, Adriano",Quartiere Adriano,45.5148,9.2493
+74,"Trilocale via Vitruvio 46, Centrale, Milano",520000,115,3,1,Appartamento,"Centrale, Repubblica",Centrale,45.4834,9.2051
+75,"Trilocale via Angelo Secchi 2, Morgagni, Milano",720000,80,3,1,Appartamento,"Centrale, Repubblica",Morgagni,45.4767,9.208
+76,"Monolocale via Monte Palombino 6, Santa Giulia, Milano",75000,25,1,1,Appartamento,"Ponte Lambro, Santa Giulia",Santa Giulia,45.4317,9.2442
+77,"Quadrilocale via Gerolamo Forni 58, Comasina, Milano",417000,150,4,1,Appartamento,"Affori, Bovisa",Comasina,45.5259,9.1664
+78,"Trilocale via Mercato, Brera, Milano",1640000,154,3,3,Appartamento,Centro,Brera,45.4713,9.1842
+79,"Bilocale via Francesco Ferrucci 1, Sempione, Milano",375000,50,2,1,Appartamento,"Fiera, Sempione, City Life, Portello",Sempione,45.4794,9.1646
+80,"Bilocale via Melchiorre Gioia 175, Maggiolina, Milano",355000,60,2,1,Appartamento,"Maggiolina, Istria",Maggiolina,45.4961,9.2076
+81,"Bilocale corso di Porta Vigentina 28, Quadronno - Crocetta, Milano",470000,65,2,1,Appartamento,"Quadronno, Palestro, Guastalla",Quadronno - Crocetta,45.454,9.1959
+82,"Attico via Sant'Aquilino, San Siro, Milano",1980000,340,0,0,Attico,"San Siro, Trenno",San Siro,45.4767,9.136
+83,"Trilocale via Carlo Imbonati 52, Dergano, Milano",550000,110,3,1,Appartamento,"Affori, Bovisa",Dergano,45.5027,9.182
+84,"Trilocale via Alberto da Giussano 21, Pagano, Milano",1050000,102,3,2,Appartamento,"Arco della Pace, Arena, Pagano",Pagano,45.4696,9.162
+85,"Trilocale via Patroclo, San Siro, Milano",750000,145,3,2,Appartamento,"San Siro, Trenno",San Siro,45.4827,9.1186
+86,"Attico via Pietro Pomponazzi 9, Pezzotti - Meda, Milano",290000,63,2,1,Attico,"Abbiategrasso, Chiesa Rossa",Pezzotti - Meda,45.4418,9.1806
+87,"Quadrilocale via Marcello Nizzoli 8, Bande Nere, Milano",1062000,164,4,3,Appartamento,"Bande Nere, Inganni",Bande Nere,45.4579,9.1324
+88,"Trilocale via Mauro Macchi 34, Centrale, Milano",690000,92,3,2,Appartamento,"Centrale, Repubblica",Centrale,45.4838,9.2068
+89,"Quadrilocale viale Enrico Forlanini 50, Quartiere Forlanini, Milano",370000,78,4,3,Appartamento,Forlanini,Quartiere Forlanini,45.4619,9.2443
+90,"Bilocale largo della Crocetta 1, Quadronno - Crocetta, Milano",650000,71,2,1,Appartamento,"Quadronno, Palestro, Guastalla",Quadronno - Crocetta,45.456,9.1958
+91,"Trilocale via Rosa Massara De Capitani 14, Bovisa, Milano",359000,89,3,1,Appartamento,"Affori, Bovisa",Bovisa,45.5004,9.1646
+92,"Trilocale viale Monza 68, Rovereto, Milano",420000,96,3,2,Appartamento,"Pasteur, Rovereto",Rovereto,45.4945,9.2194
+93,"Bilocale via Alfonso Capecelatro 22, San Siro, Milano",299000,53,2,1,Appartamento,"San Siro, Trenno",San Siro,45.4696,9.1323
+94,"Bilocale via Carlo Crivelli 6, Quadronno - Crocetta, Milano",650000,87,2,1,Appartamento,"Quadronno, Palestro, Guastalla",Quadronno - Crocetta,45.4529,9.192
+95,"Trilocale viale Abruzzi 4, Città Studi, Milano",550000,105,3,1,Appartamento,"Città Studi, Susa",Città Studi,45.4741,9.21754
+96,"Trilocale via Padova 154, Cimiano, Milano",419000,116,3,1,Appartamento,"Cimiano, Crescenzago, Adriano",Cimiano,45.4988,9.2336
+97,"Bilocale via Michelangelo Buonarroti 4, Vercelli - Wagner, Milano",589000,77,2,2,Appartamento,"Solari, Washington",Vercelli - Wagner,45.4674,9.1555
+98,"Bilocale via Ugo Tognazzi 9, Quartiere Adriano, Milano",280000,65,2,1,Appartamento,"Cimiano, Crescenzago, Adriano",Quartiere Adriano,45.5156,9.2401
+99,"Appartamento via Friuli 51, Cadore, Milano",1160000,190,5,3,Appartamento,"Porta Romana, Cadore, Montenero",Cadore,45.4554,9.214
